@@ -4,7 +4,7 @@
 
 - 📫 How to reach me **on linked in : https://www.linkedin.com/in/shouq-al-qureshi-387972216**
 
-- 📄 Know about my experiences [I have worked on projects with CSS , HTML,JS ihave made an online shopping for my nano degree graduation project.Also i have worked with OOP in python and built a rock paper siscors game and a interactive story game.](I have worked on projects with CSS , HTML,JS ihave made an online shopping for my nano degree graduation project.Also i have worked with OOP in python and built a rock paper siscors game and a interactive story game.](I have worked on projects with CSS , HTML,JS ihave made an online shopping for my nano degree graduation project.Also i have worked with OOP in python and built a rock paper siscors game and a interactive story game.](I have worked on projects with CSS , HTML,JS ihave made an online shopping for my nano degree graduation project.Also i have worked with OOP in python and built a rock paper siscors game and a interactive story game.)
+- 📄 Know about my experiences: I have worked on projects with CSS, HTML, and JS I've made online shopping for my nano degree graduation project. Also, I have worked with OOP in Python and built a rock-paper-scissors game and an interactive story game.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

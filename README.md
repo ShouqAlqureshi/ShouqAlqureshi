@@ -4,7 +4,9 @@
 
 - 📫 How to reach me:   email:shooqalsu@gmail.com    LinkedIn : https://www.linkedin.com/in/shouq-al-qureshi-387972216
 
-- 📄 Know about my experiences: I have worked on projects with CSS, HTML, and JS I've made online shopping for my nano degree graduation project. Also, I have worked with OOP in Python and built a rock-paper-scissors game and an interactive story game. moreover, I have built a variety of Java projects. I would be glad if you check my projects and give me your feedback.
+- 📄 Know about my experiences: I have worked on projects with CSS, HTML, and JS I've made online shopping for my nano degree graduation project. Also, I have worked with OOP in Python and built a rock-paper-scissors game and an interactive story game. Moreover, I have built a variety of Java projects. I would be glad if you check my projects and give me your feedback.
+  
+- 👨‍💻 Fun fact about me: I love coding, I enjoy it. 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

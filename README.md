@@ -2,9 +2,11 @@
 
 - 🌱 I’m currently learning **Java for the Java 8 OCA (1Z0-808) Certification**
 
-- 📫 How to reach me **on linked in : https://www.linkedin.com/in/shouq-al-qureshi-387972216**
+- 📫 How to reach me: **
+- on email:shooqalsu@gmail.com
+-  on linked: https://www.linkedin.com/in/shouq-al-qureshi-387972216**
 
-- 📄 Know about my experiences: I have worked on projects with CSS, HTML, and JS I've made online shopping for my nano degree graduation project. Also, I have worked with OOP in Python and built a rock-paper-scissors game and an interactive story game.
+- 📄 Know about my experiences: I have worked on projects with CSS, HTML, and JS I've made online shopping for my nano degree graduation project. Also, I have worked with OOP in Python and built a rock-paper-scissors game and an interactive story game. moreover, I have built a variety of Java projects. I would be glad if you check my projects and give me your feedback.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

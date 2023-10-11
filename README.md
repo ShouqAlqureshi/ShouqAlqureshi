@@ -1,6 +1,6 @@
 <h3 align="center">A passionate Software engineer student at KSU from Saudi Arabia</h3>
 
-- 🌱 I’m currently learning **Java for the Java 8 OCA (1Z0-808) Certification**
+- 🌱 I’m currently learning **Java for the Java 17 OCA (1Z0-808) Certification**
 
 - 📫 How to reach me:   email:shooqalsu@gmail.com    LinkedIn : https://www.linkedin.com/in/shouq-al-qureshi-387972216
 
